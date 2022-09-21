@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaycoreOdev1", "PaycoreOdev1\PaycoreOdev1.csproj", "{D7FCA0F3-B3AB-46FD-8041-42EA94D1DE5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7FCA0F3-B3AB-46FD-8041-42EA94D1DE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FCA0F3-B3AB-46FD-8041-42EA94D1DE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FCA0F3-B3AB-46FD-8041-42EA94D1DE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FCA0F3-B3AB-46FD-8041-42EA94D1DE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F34368-EBF9-4929-9BBC-B26B4A656275}
+	EndGlobalSection
+EndGlobal
